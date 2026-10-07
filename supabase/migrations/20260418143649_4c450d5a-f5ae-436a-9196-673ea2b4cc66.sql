@@ -1,1 +1,0 @@
-ALTER TABLE public.interview_contexts ADD COLUMN IF NOT EXISTS analysis jsonb;
