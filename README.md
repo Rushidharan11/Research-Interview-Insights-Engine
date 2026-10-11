@@ -6,6 +6,10 @@ Qurio is an evidence-based system designed to transform interviews into structur
 
 ---
 
+## Preview
+
+Preview of the Web Application: [Quiro - Research Interview Insights Engine](https://id-preview--941209c7-d610-497c-8412-2a0337b5e8e3.lovable.app/?__lovable_receipt=mat_1mca1d9j2c9s0t7ghp5nx89gz7)
+
 ## Problem
 
 Traditional interview analysis suffers from:
